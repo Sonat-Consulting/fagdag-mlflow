@@ -1,2 +1,2 @@
 # fagdag-mlflow
-Et repo med eksempler for fagdag
+Et repo med eksempler for å bruke MLflow
