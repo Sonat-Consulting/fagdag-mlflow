@@ -210,6 +210,7 @@ markupsafe==2.1.5
     # via werkzeug
 matplotlib==3.9.0
     # via mlflow
+    # via seaborn
 matplotlib-inline==0.1.7
     # via ipykernel
     # via ipython
@@ -252,6 +253,7 @@ numpy==1.26.4
     # via pyarrow
     # via scikit-learn
     # via scipy
+    # via seaborn
     # via tensorboard
     # via tensorflow-intel
 opt-einsum==3.3.0
@@ -272,6 +274,7 @@ packaging==24.0
     # via tensorflow-intel
 pandas==2.2.2
     # via mlflow
+    # via seaborn
 pandocfilters==1.5.1
     # via nbconvert
 parso==0.8.4
@@ -359,6 +362,7 @@ scipy==1.13.0
     # via hyperopt
     # via mlflow
     # via scikit-learn
+seaborn==0.13.2
 send2trash==1.8.3
     # via jupyter-server
 setuptools==70.0.0
