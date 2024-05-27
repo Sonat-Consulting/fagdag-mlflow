@@ -278,6 +278,7 @@ parso==0.8.4
     # via jedi
 pillow==10.3.0
     # via matplotlib
+pip==24.0
 platformdirs==4.2.2
     # via jupyter-core
     # via virtualenv

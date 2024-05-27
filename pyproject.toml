@@ -9,6 +9,7 @@ dependencies = [
     "tensorflow",
     "hyperopt",
     "virtualenv",
+    "pip",
 ]
 requires-python = ">= 3.11"
 
