@@ -2,15 +2,22 @@
 name = "mlflowtest"
 version = "1.0.0"
 dependencies = [
-    "mlflow",
     "setuptools",
+    "mlflow",
     "notebook",
-    "keras",
+    "tf-keras",
     "tensorflow",
     "hyperopt",
     "virtualenv",
     "pip",
     "seaborn",
+    "openai",
+    "tiktoken",
+    "tenacity",
+    "ipywidgets",
+    "evaluate",
+    "transformers",
+    "textstat",
 ]
 requires-python = ">= 3.11"
 
